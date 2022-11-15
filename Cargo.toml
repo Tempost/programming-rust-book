@@ -1,0 +1,3 @@
+[workspace]
+resolver = "2"
+members = ["chapter_2", "chapter_3"]

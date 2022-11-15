@@ -1,0 +1,7 @@
+[build]
+rustflags = [
+  "-C", "link-arg=-fuse-ld=lld",
+]
+
+[doc]
+browser = "/mnt/c/Program Files/Google/Chrome/Application/chrome.exe"
