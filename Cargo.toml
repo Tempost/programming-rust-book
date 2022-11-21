@@ -1,6 +1,13 @@
 [workspace]
 resolver = "2"
-members = ["chapter_2", "chapter_3", "chapter_4", "chapter_6"]
+members = [
+    "chapter_2",
+    "chapter_3",
+    "chapter_4",
+    "chapter_7",
+    "chapter_8",
+    "chapter_9"
+]
 
 [profile.dev]
 opt-level = 1
